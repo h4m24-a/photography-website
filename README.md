@@ -16,6 +16,8 @@ Contact form for support
 
 Different levels of administration controlled at login
 
+Bootstrap was used to make website reponsive for mobile
+
 
 ## Level 1 super admin can do everything. <br>
 ○ Delete Images <br>
