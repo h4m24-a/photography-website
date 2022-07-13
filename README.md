@@ -6,16 +6,11 @@
 
 <br>
 
-Users can create an account and upload their own photos.
-
-Can chat on the forum with others users.
-
-Contact form for support
-
-
-Different levels of administration controlled at login
-
-Bootstrap was used to make website reponsive for mobile
+- Users can create an account and upload their own photos.
+- Can chat on the forum with others users.
+- Contact form for support
+- Different levels of administration controlled at login
+- Bootstrap was used to make website reponsive for mobile
 
 <br>
 
