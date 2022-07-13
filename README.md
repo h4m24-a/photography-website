@@ -14,7 +14,7 @@
 
 <br>
 
-## Level 1 super admin can do everything. <br>
+##  Level 1 super admin can do everything. <br>
 ○ Delete Images <br>
 ○ Delete Threads <br>
 ○ Delete Comments <br>
@@ -32,16 +32,15 @@
 ○ Delete Comments <br> <br>
 
 
-## Built using:
+## 📝  Built using:
 
 • **HTML** <br>
 • **CSS** <br>
 • **PHP** <br>
 • **JavaScript** <br>
-• **Bootstrap** <br>
+• **Bootstrap** <br> <br>
 
-### Admin details
-
+### 👨‍💼 Admin details
 
 | Username  | Password | Admin Level       |
 | ------------- | ------------- | -------------
