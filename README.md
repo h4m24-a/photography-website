@@ -40,7 +40,7 @@
 • **JavaScript** <br>
 • **Bootstrap** <br>
 
-### Admin Users
+### Admin details
 
 
 | Username  | Password | Admin Level       |
