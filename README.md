@@ -42,7 +42,6 @@
 
 ### Admin Users
 
-<br>
 
 | Username  | Password | Admin Level       |
 | ------------- | ------------- | -------------
