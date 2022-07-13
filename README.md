@@ -12,14 +12,12 @@ Can chat on the forum with others users.
 
 Contact form for support
 
-<br>
 
 Different levels of administration controlled at login
 
-
-
 Bootstrap was used to make website reponsive for mobile
 
+<br>
 
 ## Level 1 super admin can do everything. <br>
 ○ Delete Images <br>
@@ -46,4 +44,13 @@ Bootstrap was used to make website reponsive for mobile
 • **PHP** <br>
 • **JavaScript** <br>
 • **Bootstrap** <br>
+
+### Admin Users
+
+<br>
+
+| Username  | Password | Admin Level       |
+| ------------- | ------------- | -------------
+| Bob  |     pw  | 1
+| Charles  | pw  | 2
 
