@@ -2,12 +2,6 @@
 
 ### View website
 
-Built using:
-• HTML
-• CSS
-• PHP
-• JavaScript
-• Bootstrap
 
 ### https://csucl.com/csucl.com/stu9/index1.html
 
