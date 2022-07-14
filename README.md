@@ -15,6 +15,14 @@
 
 <br>
 
+## 📝  Built using:
+
+• **HTML** <br>
+• **CSS** <br>
+• **PHP** <br>
+• **JavaScript** <br>
+• **Bootstrap** <br> <br>
+
 ##  Level 1 super admin can do everything. <br>
 ○ Delete Images <br>
 ○ Delete Threads <br>
@@ -32,14 +40,6 @@
 ○ Delete Threads <br>
 ○ Delete Comments <br> <br>
 
-
-## 📝  Built using:
-
-• **HTML** <br>
-• **CSS** <br>
-• **PHP** <br>
-• **JavaScript** <br>
-• **Bootstrap** <br> <br>
 
 ### 👨‍💼 Admin details
 
